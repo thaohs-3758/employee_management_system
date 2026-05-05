@@ -3,7 +3,7 @@ package repositories
 import (
 	"context"
 	"database/sql"
-	"employee_management_system/internal/models"
+	"github.com/thaohs-3758/employee_management_system/internal/models"
 
 	_ "github.com/lib/pq"
 )

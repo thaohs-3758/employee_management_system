@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"employee_management_system/internal/utils"
+	"github.com/thaohs-3758/employee_management_system/internal/utils"
 	"net/http"
 )
 

@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"employee_management_system/internal/models"
-	"employee_management_system/internal/services"
-	"employee_management_system/internal/utils"
+	"github.com/thaohs-3758/employee_management_system/internal/models"
+	"github.com/thaohs-3758/employee_management_system/internal/services"
+	"github.com/thaohs-3758/employee_management_system/internal/utils"
 	"net/http"
 	"strconv"
 )

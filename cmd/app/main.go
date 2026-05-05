@@ -2,11 +2,11 @@ package main
 
 import (
 	"bufio"
-	"employee_management_system/internal/database"
-	"employee_management_system/internal/handlers"
-	"employee_management_system/internal/middleware"
-	"employee_management_system/internal/repositories"
-	"employee_management_system/internal/services"
+	"github.com/thaohs-3758/employee_management_system/internal/database"
+	"github.com/thaohs-3758/employee_management_system/internal/handlers"
+	"github.com/thaohs-3758/employee_management_system/internal/middleware"
+	"github.com/thaohs-3758/employee_management_system/internal/repositories"
+	"github.com/thaohs-3758/employee_management_system/internal/services"
 	"log"
 	"net/http"
 	"os"

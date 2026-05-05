@@ -1,4 +1,4 @@
-module employee_management_system
+module github.com/thaohs-3758/employee_management_system
 
 go 1.26.2
 

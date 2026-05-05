@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"employee_management_system/internal/models"
+	"github.com/thaohs-3758/employee_management_system/internal/models"
 	"encoding/csv"
 	"encoding/json"
 	"fmt"

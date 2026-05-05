@@ -3,8 +3,8 @@ package services
 import (
 	"context"
 	"errors"
-	"employee_management_system/internal/models"
-	"employee_management_system/internal/repositories"
+	"github.com/thaohs-3758/employee_management_system/internal/models"
+	"github.com/thaohs-3758/employee_management_system/internal/repositories"
 )
 
 type DepartmentService struct {
